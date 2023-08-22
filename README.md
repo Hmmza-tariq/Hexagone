@@ -97,13 +97,6 @@ Aamna : Teebo Game
 Results:
    
   
-
-
-GitHub Link:
-
-https://github.com/Hmmza-tariq/Hexagone.git
-
-
 Conclusion:
 
 The game offers players the ability to switch between these modes at any time, allowing them to enjoy a diverse gaming experience. 
